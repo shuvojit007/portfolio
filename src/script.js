@@ -2,6 +2,7 @@ $(document).ready(function() {
     $('.modal-trigger').leanModal();
     AOS.init();
 
+
     $('.tooltipped').tooltip({delay: 50});
 
     var hashTagActive = "";
